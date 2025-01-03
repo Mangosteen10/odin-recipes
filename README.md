@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project provided by the Odin-Project website that teaches a course in the foundations of front-end programming. The project entails creating a website of recipes using HTML. For now, only HTML will be utilized to create this website. The goal of this project is to correctly utilize the foundational HTML skills taught by The Odin Project in order to become a better, more well-rounded programmer.
